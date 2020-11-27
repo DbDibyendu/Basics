@@ -1,16 +1,13 @@
 # cmake
-Last edited by Yogesh Hegde 1 week ago
 CMake
 This guide will help you write cmake files for your project.
-
 Cmake is used to compile your project.
 
-Requirements to read this
-Must know the basics of CMake and CMakeLists.txt
-Minimum CMakeLists.txt
+- Requirements to read this                
+Must know the basics of CMake and CMakeLists.txt       
 Bare minimum CMakelists.txt for compiling
 
-Binaries/Applications
+1.Binaries/Applications
 ```shell
 # Minimum Cmake verison required
 cmake_minimum_required(VERSION 3.0.0)
