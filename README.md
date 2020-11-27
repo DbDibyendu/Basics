@@ -11,6 +11,7 @@ Minimum CMakeLists.txt
 Bare minimum CMakelists.txt for compiling
 
 Binaries/Applications
+```shell
 # Minimum Cmake verison required
 cmake_minimum_required(VERSION 3.0.0)
 
@@ -51,8 +52,9 @@ target_link_libraries(binary_name PUBLIC -lm )
 # ----------------------------------
 # If you have multiple binaries in a folder 
 # the add more of these sections and change binary_name
-Shared Libraries (.so files)
-
+```
+2.Shared Libraries (.so files)
+```shell
 # Set the CMake minimum version
 cmake_minimum_required(VERSION 3.5)
 
@@ -104,3 +106,4 @@ install(EXPORT ${PROJECT_NAME}Config DESTINATION share/${PROJECT_NAME}/cmake)
 
 # Also build examples
 add_subdirectory(examples)
+```
