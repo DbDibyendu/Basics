@@ -16,3 +16,5 @@ shruti170901/Leetcode
 
 ### My KWoC Experience :
 In just a short period of time, I get acquainted with Git ,GitHub. I also learnt many git commands here. I can now easily read and understand commits on GitHub which was hard to read then. As I was learning CP, so solving questions for leetcode helped me with my goals and I got to learn Git,Github along with it, I am very thankful to my mentor and other contributor who helped me during my journey of learning .I would like express my gratitude to KWoC for this beginner programme which gives kickoff to the beginners towards OpenSource contribution.
+
+- Dibyendu Biswas
