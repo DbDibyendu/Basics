@@ -3,10 +3,9 @@ Kharagpur Winter of Code is a 5-week long online programme for the students, who
                          
 - **Project Name** : Leetcode             
 - **Mentor** :Shruti Shreyashi              
-- **Project Description** : Uploading solution of Leetcode problems.                
-
-- Github Repostiory :
-DbDibyendu/Leetcode           
+- **Project Description** : Uploading solution of Leetcode problems.                 
+- **Github Repostiory** :
+shruti170901/Leetcode           
 
 ### Merged Pull Request :
 - First PR : Solved Problem related to DP (Climbing Stairs).
