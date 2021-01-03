@@ -7,6 +7,9 @@ Kharagpur Winter of Code is a 5-week long online programme for the students, who
 - **Github Repostiory** :
 shruti170901/Leetcode           
 
+### About Leet-Code :
+This project aims to provide the solutuions for different types of problems that are on leetcode website. [Link](https://github.com/shruti170901/Leetcode)
+
 ### Merged Pull Request :
 - First PR : Solved Problem related to DP (Climbing Stairs).
 - Second PR : Solved Problem related to DFS.
