@@ -2,7 +2,7 @@
 Kharagpur Winter of Code is a 5-week long online programme for the students, who are new to open source software development. The programme not only helps students to get involved in open source, but also preps them for many open source summer programmes, Google Summer of Code being one of them.
                          
 - **Project Name** : Leetcode             
-- **Mentor** :Shruti Shreyashi              
+- **Mentor** :Shruti Shreyasi              
 - **Project Description** : Uploading solution of Leetcode problems.                 
 - **Github Repostiory** :
 shruti170901/Leetcode           
